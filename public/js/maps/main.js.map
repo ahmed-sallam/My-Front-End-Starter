@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js","seconde.js"],"names":["handleClick","alert","console","log"],"mappings":"aAAA,IAAAA,YAAA,WAEAC,MAAMD,sBCANE,QAAQC,IAAI","file":"../main.js","sourcesContent":["// Simple for test\r\n\r\nconst handleClick = () => {\r\n  alert(\"Welcome with All!\");\r\n};\r\n","// This is for test :)\r\n\r\nconsole.log(\"ok\");\r\n"]}

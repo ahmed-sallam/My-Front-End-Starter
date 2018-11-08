@@ -1,0 +1,30 @@
+/* Simple for test */
+
+@import "reset";
+
+$background-color: #f7f7f7;
+$my-test-color: #63646f;
+
+body {
+  background-color: $background-color;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  h1 {
+    color: $my-test-color;
+  }
+  .btn-welcome {
+    margin-top: 1rem;
+    color: white;
+    background-color: gray;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 15px;
+    font-weight: bold;
+  }
+}
